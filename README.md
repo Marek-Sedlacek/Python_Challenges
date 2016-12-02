@@ -1,5 +1,5 @@
 ## This Week's Challenge!
-#### [Challenge #5 - Let's Get Mathy (12/02)] (Previous_Challenges/Python%20Challenge%20%235.ipynb)
+#### [Challenge #5 - Let's go primal! (12/02)] (Previous_Challenges/Python%20Challenge%20%235.ipynb)
 <br> 
 <br> 
 ### Last Week's Challenge with Solution
